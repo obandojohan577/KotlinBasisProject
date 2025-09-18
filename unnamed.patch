@@ -1,0 +1,17 @@
+Index: app/src/main/java/com/example/finalgrades/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/finalgrades/MainActivity.kt b/app/src/main/java/com/example/finalgrades/MainActivity.kt
+--- a/app/src/main/java/com/example/finalgrades/MainActivity.kt
++++ b/app/src/main/java/com/example/finalgrades/MainActivity.kt	(date 1758159278425)
+@@ -11,7 +11,7 @@
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
+ 
+-        
++
+         val nota1 = findViewById<EditText>(R.id.nota1)
+         val nota2 = findViewById<EditText>(R.id.nota2)
+         val nota3 = findViewById<EditText>(R.id.nota3)
